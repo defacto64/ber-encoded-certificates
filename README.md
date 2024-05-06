@@ -11,5 +11,6 @@ The following table reports the results I got from parsing/viewing a sample BER-
 | Linux   | GnuTLS (certtool)  | OK |
 | Web | Peculiar Certificates Viewer | OK | https://x509.io/ |
 | Windows | certutil.exe | OK |
+| Java 11 | keytool | OK |
 
 
