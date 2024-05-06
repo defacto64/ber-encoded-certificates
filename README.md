@@ -9,9 +9,10 @@ The following table reports the results I got from parsing/viewing a sample BER-
 | ------------- | ------------- | ----- | ----- |
 | Linux  | OpenSSL  | OK |
 | Linux   | GnuTLS (certtool)  | OK |
-| Web | Peculiar Certificates Viewer | OK | https://x509.io/ |
-| Windows | certutil.exe | OK |
-| Java 11 | keytool | OK |
 | Linux | Golang | **KO** | "encoding/asn1" package |
+| Windows | certutil.exe | OK |
+| Windows | .NET | OK | from Powershell |
+| Java 11 | keytool | OK |
+| Javascript | Peculiar Certificates Viewer | OK | https://x509.io/ |
 
 
